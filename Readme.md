@@ -47,7 +47,7 @@
 
 # 使用アセット
 #### ユーザーデータ管理(必須)
-- NCMB(https://github.com/NIFCLOUD-mbaas/ncmb_unity/releases) \
+- NCMB_v4.0.4(https://github.com/NIFCLOUD-mbaas/ncmb_unity/releases) \
 ※登録(https://console.mbaas.nifcloud.com/)
 
 #### 通信対戦同期(必須)
